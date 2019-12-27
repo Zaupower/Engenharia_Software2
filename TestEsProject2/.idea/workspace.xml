@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df1a4c44-1520-44ce-bfd0-cb4fa2d873b1" name="Default Changelist" comment="" />
+    <list default="true" id="df1a4c44-1520-44ce-bfd0-cb4fa2d873b1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TestEsProject2/META-INF/TestEsProject2.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TestEsProject2/MainFamily.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TestEsProject2/MainFamily.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MainFamily.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainFamily.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fpref2.txt" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +20,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1VZsxuMkQ3wJSYBk6GwmvVnfpwO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,8 +32,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -79,6 +91,7 @@
       <option name="presentableId" value="Default" />
       <updated>1577472201964</updated>
       <workItem from="1577472205060" duration="3932000" />
+      <workItem from="1577477908301" duration="979000" />
     </task>
     <servers />
   </component>
@@ -94,22 +107,26 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="80" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1577472449997" />
-    <state width="1286" height="203" key="GridCell.Tab.0.bottom" timestamp="1577477021396">
+    <state x="236" y="0" key="CommitChangelistDialog2" timestamp="1577478993655">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="203" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577477021396" />
-    <state width="1286" height="203" key="GridCell.Tab.0.center" timestamp="1577477021395">
+    <state x="236" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1577478993655" />
+    <state width="1286" height="163" key="GridCell.Tab.0.bottom" timestamp="1577478011310">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="203" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1577477021395" />
-    <state width="1286" height="203" key="GridCell.Tab.0.left" timestamp="1577477021395">
+    <state width="1286" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577478011310" />
+    <state width="1286" height="163" key="GridCell.Tab.0.center" timestamp="1577478011310">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="203" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1577477021395" />
-    <state width="1286" height="203" key="GridCell.Tab.0.right" timestamp="1577477021395">
+    <state width="1286" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1577478011310" />
+    <state width="1286" height="163" key="GridCell.Tab.0.left" timestamp="1577478011310">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="203" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1577477021395" />
+    <state width="1286" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1577478011310" />
+    <state width="1286" height="163" key="GridCell.Tab.0.right" timestamp="1577478011310">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1577478011310" />
     <state width="1286" height="203" key="GridCell.Tab.1.bottom" timestamp="1577477021396">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -126,5 +143,13 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1286" height="203" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1577477021396" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1577477909000">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1577477909000" />
+    <state x="492" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577478967863">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="492" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1577478967863" />
   </component>
 </project>

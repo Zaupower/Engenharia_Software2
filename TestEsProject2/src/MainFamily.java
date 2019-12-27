@@ -12,9 +12,10 @@ public class MainFamily {
         ArrayList<Family> familyArrayList = new ArrayList<>();
 
         //File separator
+
        String fileLocation = "C:"+ File.separator+ "Users"+ File.separator+"marce"+
                File.separator+"Desktop"+File.separator+"Licenciatura"+File.separator+
-               "2Ano"+File.separator+"Es2"+File.separator+"projeto1"+File.separator+
+               "2Ano"+File.separator+"Es2"+File.separator+"git"+File.separator+
                "TestEsProject2"+File.separator+"src"+File.separator+"fpref.csv";
 
         File csvFamily = new File(fileLocation);
@@ -28,7 +29,8 @@ public class MainFamily {
         while (familyScanner.hasNext()) {
             String nextLine = familyScanner.nextLine();
 
-            System.out.println("Next Line " + nextLine);
+            //print de verificaçao de leitura de todas as linhas do ficheiro
+            //System.out.println("Next Line " + nextLine);
 
             //slpit the file into parts
             String[] lineFamily = nextLine.split(",");
@@ -45,7 +47,8 @@ public class MainFamily {
             choice_8 = Integer.parseInt(lineFamily[9]);
             choice_9 = Integer.parseInt(lineFamily[10]);
             n_people = Integer.parseInt(lineFamily[11]);
-            Family family = new Family(family_id, choice_0, choice_1, choice_2, choice_3, choice_4, choice_5, choice_6, choice_7, choice_8, choice_9, n_people);
+            Family family = new Family(family_id, choice_0, choice_1, choice_2, choice_3,
+                    choice_4, choice_5, choice_6, choice_7, choice_8, choice_9, n_people);
 
             familyArrayList.add(family);
 
